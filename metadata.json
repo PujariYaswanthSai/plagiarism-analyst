@@ -1,0 +1,5 @@
+{
+  "name": "ScholarGuard Plagiarism Analyst",
+  "description": "An advanced academic plagiarism detection tool that compares survey papers against a set of reference texts to identify verbatim copying, close paraphrasing, and mosaic plagiarism using Gemini AI.",
+  "requestFramePermissions": []
+}
